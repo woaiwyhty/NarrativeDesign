@@ -1,0 +1,40 @@
+:root {
+    --footer-height: 120px;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+#navigation {
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+    position: absolute;
+    top: 10px;
+}
+#page-numbers {
+    display: flex;
+    justify-content: space-between;
+}
+#content {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    top: 50px;
+}
+
+#page-numbers span {
+    color: #9d9d9d;
+    margin-right: 3px;
+}
+
+#page-numbers span.text-bold {
+    color: #000;
+}
+

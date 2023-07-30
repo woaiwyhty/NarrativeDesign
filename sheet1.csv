@@ -1,0 +1,267 @@
+"Country Name","Region1","Average Life Expectancy (AVG)","Avg Income  (AVG)"
+"Zimbabwe","Sub-Saharan Africa",54.74,635.20
+"Zambia","Sub-Saharan Africa",52.33,539.30
+"Uganda","Sub-Saharan Africa",50.17,328.35
+"Togo","Sub-Saharan Africa",52.73,356.64
+"Tanzania","Sub-Saharan Africa",52.95,444.32
+"Sudan","Sub-Saharan Africa",53.97,863.85
+"South Sudan","Sub-Saharan Africa",39.10,841.28
+"South Africa","Sub-Saharan Africa",59.19,3316.97
+"Somalia","Sub-Saharan Africa",48.27,193.26
+"Sierra Leone","Sub-Saharan Africa",45.39,268.82
+"Seychelles","Sub-Saharan Africa",71.75,8867.31
+"Senegal","Sub-Saharan Africa",53.88,813.73
+"Sao Tome and Principe","Sub-Saharan Africa",60.04,1028.83
+"Rwanda","Sub-Saharan Africa",51.28,345.11
+"Nigeria","Sub-Saharan Africa",45.96,944.41
+"Niger","Sub-Saharan Africa",46.00,328.62
+"Namibia","Sub-Saharan Africa",56.26,3190.92
+"Mozambique","Sub-Saharan Africa",47.18,330.62
+"Mauritius","Sub-Saharan Africa",67.65,4315.16
+"Mauritania","Sub-Saharan Africa",57.55,979.42
+"Mali","Sub-Saharan Africa",45.34,388.37
+"Malawi","Sub-Saharan Africa",46.45,235.88
+"Madagascar","Sub-Saharan Africa",54.25,340.33
+"Liberia","Sub-Saharan Africa",48.10,268.17
+"Lesotho","Sub-Saharan Africa",52.17,740.78
+"Kenya","Sub-Saharan Africa",57.18,546.32
+"Guinea-Bissau","Sub-Saharan Africa",47.47,296.76
+"Guinea","Sub-Saharan Africa",47.94,470.79
+"Ghana","Sub-Saharan Africa",55.04,615.81
+"Gambia, The","Sub-Saharan Africa",50.80,434.16
+"Gabon","Sub-Saharan Africa",58.76,2723.39
+"Ethiopia","Sub-Saharan Africa",48.86,258.60
+"Eswatini","Sub-Saharan Africa",52.95,2142.00
+"Eritrea","Sub-Saharan Africa",51.48,317.06
+"Equatorial Guinea","Sub-Saharan Africa",49.65,1701.57
+"Cote d'Ivoire","Sub-Saharan Africa",50.74,932.17
+"Congo, Rep.","Sub-Saharan Africa",56.32,558.17
+"Congo, Dem. Rep.","Sub-Saharan Africa",49.32,210.96
+"Comoros","Sub-Saharan Africa",54.03,952.97
+"Chad","Sub-Saharan Africa",45.49,338.69
+"Central African Republic","Sub-Saharan Africa",47.84,327.37
+"Cameroon","Sub-Saharan Africa",52.34,795.57
+"Cabo Verde","Sub-Saharan Africa",64.32,1797.00
+"Burundi","Sub-Saharan Africa",48.35,135.57
+"Burkina Faso","Sub-Saharan Africa",48.52,386.50
+"Botswana","Sub-Saharan Africa",57.62,2589.93
+"Benin","Sub-Saharan Africa",51.33,507.65
+"Angola","Sub-Saharan Africa",46.67,1053.52
+"Sri Lanka","South Asia",69.72,1285.77
+"Pakistan","South Asia",59.00,550.45
+"Nepal","South Asia",55.06,352.86
+"Maldives","South Asia",62.36,3716.50
+"India","South Asia",58.14,606.65
+"Bhutan","South Asia",54.91,1083.09
+"Bangladesh","South Asia",57.98,595.26
+"Afghanistan","South Asia",47.91,359.05
+"United States","North America",74.86,27098.61
+"Canada","North America",77.08,20971.50
+"Bermuda","North America",74.87,
+"Yemen, Rep.","Middle East & North Africa",54.78,596.19
+"West Bank and Gaza","Middle East & North Africa",71.79,
+"United Arab Emirates","Middle East & North Africa",69.70,35446.29
+"Tunisia","Middle East & North Africa",66.25,1759.15
+"Syrian Arab Republic","Middle East & North Africa",66.58,3827.99
+"Saudi Arabia","Middle East & North Africa",65.93,9154.92
+"Qatar","Middle East & North Africa",72.52,23648.34
+"Oman","Middle East & North Africa",64.12,5905.93
+"Morocco","Middle East & North Africa",60.66,1421.24
+"Malta","Middle East & North Africa",75.32,
+"Libya","Middle East & North Africa",65.02,7331.02
+"Lebanon","Middle East & North Africa",68.94,4231.13
+"Kuwait","Middle East & North Africa",72.49,20402.28
+"Jordan","Middle East & North Africa",68.03,2080.62
+"Israel","Middle East & North Africa",76.94,24557.77
+"Iraq","Middle East & North Africa",63.26,2486.58
+"Iran, Islamic Rep.","Middle East & North Africa",62.91,2438.03
+"Egypt, Arab Rep.","Middle East & North Africa",61.33,1139.11
+"Djibouti","Middle East & North Africa",54.25,1239.59
+"Bahrain","Middle East & North Africa",71.43,9921.60
+"Algeria","Middle East & North Africa",61.41,1972.81
+"Virgin Islands (U.S.)","Latin America & Caribbean",71.89,
+"Venezuela, RB","Latin America & Caribbean",69.24,3660.97
+"Uruguay","Latin America & Caribbean",72.93,6311.23
+"Turks and Caicos Islands","Latin America & Caribbean",69.31,22099.91
+"Trinidad and Tobago","Latin America & Caribbean",68.77,6039.37
+"Suriname","Latin America & Caribbean",64.56,2902.75
+"St. Vincent and the Grenadines","Latin America & Caribbean",70.48,3802.82
+"St. Martin (French part)","Latin America & Caribbean",74.65,
+"St. Lucia","Latin America & Caribbean",68.69,5134.20
+"St. Kitts and Nevis","Latin America & Caribbean",66.08,
+"Sint Maarten (Dutch part)","Latin America & Caribbean",72.64,
+"Puerto Rico","Latin America & Caribbean",74.48,
+"Peru","Latin America & Caribbean",64.62,2266.95
+"Paraguay","Latin America & Caribbean",67.41,3282.24
+"Panama","Latin America & Caribbean",71.14,4799.57
+"Nicaragua","Latin America & Caribbean",61.89,891.53
+"Mexico","Latin America & Caribbean",68.06,4389.62
+"Jamaica","Latin America & Caribbean",69.93,2594.70
+"Honduras","Latin America & Caribbean",63.37,1133.05
+"Haiti","Latin America & Caribbean",53.90,735.59
+"Guyana","Latin America & Caribbean",63.20,2094.66
+"Guatemala","Latin America & Caribbean",61.10,1699.53
+"Grenada","Latin America & Caribbean",70.25,
+"El Salvador","Latin America & Caribbean",61.53,1661.45
+"Ecuador","Latin America & Caribbean",67.26,2177.25
+"Dominican Republic","Latin America & Caribbean",64.83,2780.56
+"Dominica","Latin America & Caribbean",69.45,4166.80
+"Curacao","Latin America & Caribbean",71.75,
+"Cuba","Latin America & Caribbean",73.32,2958.84
+"Costa Rica","Latin America & Caribbean",73.62,4181.40
+"Colombia","Latin America & Caribbean",68.48,2489.49
+"Chile","Latin America & Caribbean",71.47,4800.22
+"Cayman Islands","Latin America & Caribbean",82.19,
+"British Virgin Islands","Latin America & Caribbean",71.29,
+"Brazil","Latin America & Caribbean",65.47,3630.78
+"Bolivia","Latin America & Caribbean",56.43,1192.16
+"Belize","Latin America & Caribbean",67.98,3367.74
+"Barbados","Latin America & Caribbean",72.46,11049.53
+"Bahamas, The","Latin America & Caribbean",69.46,18292.48
+"Aruba","Latin America & Caribbean",71.81,18157.34
+"Argentina","Latin America & Caribbean",71.07,5325.85
+"Antigua and Barbuda","Latin America & Caribbean",73.18,
+"Uzbekistan","Europe & Central Asia",64.85,1135.64
+"United Kingdom","Europe & Central Asia",76.04,20077.52
+"Ukraine","Europe & Central Asia",69.27,1877.85
+"Turkmenistan","Europe & Central Asia",62.84,1728.89
+"Turkiye","Europe & Central Asia",66.53,3935.66
+"Tajikistan","Europe & Central Asia",61.66,811.98
+"Switzerland","Europe & Central Asia",77.76,52611.73
+"Sweden","Europe & Central Asia",77.92,26981.45
+"Spain","Europe & Central Asia",77.00,13704.32
+"Slovenia","Europe & Central Asia",73.92,15417.20
+"Slovak Republic","Europe & Central Asia",72.48,10483.06
+"Serbia","Europe & Central Asia",70.23,5336.61
+"San Marino","Europe & Central Asia",,
+"Russian Federation","Europe & Central Asia",67.99,5427.56
+"Romania","Europe & Central Asia",70.42,4700.01
+"Portugal","Europe & Central Asia",73.58,9549.64
+"Poland","Europe & Central Asia",72.48,7427.50
+"Norway","Europe & Central Asia",77.52,33732.11
+"North Macedonia","Europe & Central Asia",69.81,2980.44
+"Netherlands","Europe & Central Asia",77.20,23330.77
+"Montenegro","Europe & Central Asia",72.75,6451.66
+"Monaco","Europe & Central Asia",,
+"Moldova","Europe & Central Asia",66.31,2001.06
+"Luxembourg","Europe & Central Asia",75.27,37839.50
+"Lithuania","Europe & Central Asia",71.64,9197.25
+"Liechtenstein","Europe & Central Asia",80.79,
+"Latvia","Europe & Central Asia",70.64,8008.75
+"Kyrgyz Republic","Europe & Central Asia",64.39,651.33
+"Kosovo","Europe & Central Asia",70.83,
+"Kazakhstan","Europe & Central Asia",65.47,4228.55
+"Italy","Europe & Central Asia",76.82,17246.95
+"Isle of Man","Europe & Central Asia",72.15,
+"Ireland","Europe & Central Asia",75.45,19832.15
+"Iceland","Europe & Central Asia",78.25,46836.79
+"Hungary","Europe & Central Asia",71.09,8315.34
+"Greenland","Europe & Central Asia",67.32,
+"Greece","Europe & Central Asia",76.48,18832.59
+"Gibraltar","Europe & Central Asia",76.31,
+"Germany","Europe & Central Asia",75.45,21665.28
+"Georgia","Europe & Central Asia",68.25,2476.40
+"France","Europe & Central Asia",76.65,20435.82
+"Finland","Europe & Central Asia",75.39,21950.22
+"Faroe Islands","Europe & Central Asia",79.01,
+"Estonia","Europe & Central Asia",71.32,12623.93
+"Denmark","Europe & Central Asia",75.94,27603.30
+"Czechia","Europe & Central Asia",73.30,10868.21
+"Cyprus","Europe & Central Asia",73.77,13843.32
+"Croatia","Europe & Central Asia",72.29,8994.19
+"Channel Islands","Europe & Central Asia",76.59,
+"Bulgaria","Europe & Central Asia",71.90,3596.61
+"Bosnia and Herzegovina","Europe & Central Asia",70.93,3042.54
+"Belgium","Europe & Central Asia",75.79,21367.26
+"Belarus","Europe & Central Asia",70.48,3382.86
+"Azerbaijan","Europe & Central Asia",63.57,2733.55
+"Austria","Europe & Central Asia",75.49,22215.41
+"Armenia","Europe & Central Asia",68.27,2260.18
+"Andorra","Europe & Central Asia",,
+"Albania","Europe & Central Asia",71.50,2083.38
+"Vietnam","East Asia & Pacific",67.58,1049.98
+"Vanuatu","East Asia & Pacific",63.65,1622.85
+"Tuvalu","East Asia & Pacific",60.14,
+"Tonga","East Asia & Pacific",66.78,2293.98
+"Timor-Leste","East Asia & Pacific",46.55,1076.89
+"Thailand","East Asia & Pacific",67.88,2174.26
+"Solomon Islands","East Asia & Pacific",63.26,1155.06
+"Singapore","East Asia & Pacific",75.22,20436.59
+"Samoa","East Asia & Pacific",66.59,2118.76
+"Philippines","East Asia & Pacific",66.04,1342.88
+"Papua New Guinea","East Asia & Pacific",58.38,1001.81
+"Palau","East Asia & Pacific",70.13,
+"Northern Mariana Islands","East Asia & Pacific",,
+"New Zealand","East Asia & Pacific",76.07,16111.68
+"New Caledonia","East Asia & Pacific",70.19,10397.53
+"Nauru","East Asia & Pacific",60.53,
+"Myanmar","East Asia & Pacific",56.85,301.81
+"Mongolia","East Asia & Pacific",59.55,1407.80
+"Micronesia, Fed. Sts.","East Asia & Pacific",66.39,2575.05
+"Marshall Islands","East Asia & Pacific",61.46,
+"Malaysia","East Asia & Pacific",69.59,3247.61
+"Macao SAR, China","East Asia & Pacific",76.71,
+"Lao PDR","East Asia & Pacific",53.99,706.81
+"Korea, Rep.","East Asia & Pacific",71.03,10711.32
+"Korea, Dem. People's Rep.","East Asia & Pacific",65.76,
+"Kiribati","East Asia & Pacific",60.06,1476.59
+"Japan","East Asia & Pacific",78.03,21572.99
+"Indonesia","East Asia & Pacific",61.36,1082.89
+"Hong Kong SAR, China","East Asia & Pacific",77.26,5416.81
+"Guam","East Asia & Pacific",71.33,
+"French Polynesia","East Asia & Pacific",72.59,13492.47
+"Fiji","East Asia & Pacific",64.47,2595.98
+"China","East Asia & Pacific",66.57,1879.98
+"Cambodia","East Asia & Pacific",53.53,690.75
+"Brunei Darussalam","East Asia & Pacific",70.10,18278.72
+"Australia","East Asia & Pacific",76.82,21199.05
+"American Samoa","East Asia & Pacific",,
+"World",,64.60,4629.41
+"Upper middle income",,66.78,2441.66
+"Sub-Saharan Africa (IDA & IBRD countries)",,50.43,728.28
+"Sub-Saharan Africa (excluding high income)",,50.42,727.58
+"Sub-Saharan Africa",,50.43,728.28
+"South Asia (IDA & IBRD)",,58.15,594.45
+"South Asia",,58.15,594.45
+"Small states",,62.55,4803.77
+"Pre-demographic dividend",,49.84,624.31
+"Post-demographic dividend",,75.33,19992.29
+"Pacific island small states",,64.42,2094.68
+"Other small states",,60.23,4950.38
+"OECD members",,74.44,17632.56
+"Not classified",,,
+"North America",,75.08,26491.18
+"Middle income",,62.69,1525.39
+"Middle East & North Africa (IDA & IBRD countries)",,62.08,2402.88
+"Middle East & North Africa (excluding high income)",,62.09,2402.44
+"Middle East & North Africa",,62.81,4364.35
+"Lower middle income",,58.86,788.93
+"Low income",,50.56,425.11
+"Low & middle income",,61.80,1419.58
+"Least developed countries: UN classification",,52.21,481.45
+"Latin America & the Caribbean (IDA & IBRD countries)",,66.67,3528.57
+"Latin America & Caribbean (excluding high income)",,66.49,3416.76
+"Latin America & Caribbean",,66.92,3557.49
+"Late-demographic dividend",,67.14,2372.21
+"IDA total",,53.81,600.09
+"IDA only",,53.61,569.16
+"IDA blend",,54.31,727.83
+"IDA & IBRD total",,61.99,1482.45
+"IBRD only",,64.17,1777.75
+"High income",,75.24,19517.94
+"Heavily indebted poor countries (HIPC)",,50.68,469.09
+"Fragile and conflict affected situations",,53.90,1182.30
+"European Union",,75.18,15651.53
+"Europe & Central Asia (IDA & IBRD countries)",,68.56,4602.45
+"Europe & Central Asia (excluding high income)",,67.99,4216.46
+"Europe & Central Asia",,72.28,10883.35
+"Euro area",,76.03,18264.73
+"East Asia & Pacific (IDA & IBRD countries)",,65.60,1655.70
+"East Asia & Pacific (excluding high income)",,65.60,1637.10
+"East Asia & Pacific",,66.90,3451.28
+"Early-demographic dividend",,59.96,1309.24
+"Central Europe and the Baltics",,71.92,7821.05
+"Caribbean small states",,68.49,4953.08
+"Arab World",,61.14,3028.60
+"Africa Western and Central",,48.32,731.69
+"Africa Eastern and Southern",,51.89,813.63
