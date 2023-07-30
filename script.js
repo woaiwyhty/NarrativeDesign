@@ -212,15 +212,15 @@ let refreshPage = function () {
         } else if (currentScene === 1) {
             var annotations = [{
                 note: {
-                    label: "Latin America countries has relatively lower average income but they has relatively high average life expectancy",
+                    label: "Some countries have low income but have high life expectancies",
                 },
-                x: width / 2,  // x-coordinate
-                y: height - 200,  // y-coordinate
+                x: width / 2 + 90,  // x-coordinate
+                y: height - 130,  // y-coordinate
                 dx: -100,  // x-offset
                 dy: -100,  // y-offset
                 type: d3.annotationCalloutCircle,
                 subject: {
-                    radius: 100,   // circle radius
+                    radius: 50,   // circle radius
                     radiusPadding: 10   // white space around circle
                 }
             }]
